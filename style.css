@@ -17,7 +17,7 @@ h1,
   font-size: 18px;
 }
 .active {
-  background-color: red;
+  background-color: blue;
 }
 .home {
   max-width: 1440px;
